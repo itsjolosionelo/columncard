@@ -1,0 +1,11 @@
+.parent__suvs {
+    background-color: c(cyan);
+
+    h2::before {
+        background-image: url('../../../images/icon-suvs.svg');
+    }
+
+    button {
+        color: c(cyan);
+    }
+}

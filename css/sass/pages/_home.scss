@@ -1,0 +1,70 @@
+.parent {
+    display: flex;
+    place-self: center;
+    flex-direction: column;
+
+    border-radius: .8rem;
+    overflow: hidden;
+
+    @include large {
+        flex-direction: row;
+        margin-top: 6.6rem;
+        width: 64vw;
+        height: 62vh;
+    }
+
+    &>* {
+        flex-basis: 60vh;
+        padding: 3vh 10vw;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-around;
+
+        @include medium {
+            flex-basis: 70vh;
+        }
+
+        @include large {
+            padding: 0 4.6rem;
+        }
+
+        h2 {
+            margin-bottom: -1.5rem;
+
+            &::before {
+                content: "";
+                display: block;
+                height: 6rem;
+                width: 6rem;
+                margin-bottom: 1rem;
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: contain;
+
+                @include large {
+                    height: 6.1rem;
+                    width: 6.1rem;
+                    margin-bottom: 1.5rem;
+                }
+            }
+
+        }
+
+        p {
+            @include large {
+                position: relative;
+            }
+
+            @include extra-large {
+                top: -3rem;
+            }
+        }
+    }
+}
+
+.author {
+    text-align: center;
+    position: relative;
+    top: clamp(3vh, 2rem, 5vh);
+}

@@ -1,0 +1,11 @@
+.parent__luxury {
+    background-color: c(dark-cyan);
+
+    h2::before {
+        background-image: url('../../../images/icon-luxury.svg');
+    }
+
+    button {
+        color: c(dark-cyan);
+    }
+}

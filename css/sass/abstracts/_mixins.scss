@@ -1,0 +1,23 @@
+@mixin small {
+    @media (min-width: b(sm)) {
+        @content;
+    }
+}
+
+@mixin medium {
+    @media (min-width: b(md)) {
+        @content;
+    }
+}
+
+@mixin large {
+    @media (min-width: b(lg)) {
+        @content;
+    }
+}
+
+@mixin extra-large {
+    @media (min-width: b(xl)) {
+        @content;
+    }
+}

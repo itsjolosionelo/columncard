@@ -1,0 +1,11 @@
+.parent__sedans {
+    background-color: c(orange);
+
+    h2::before {
+        background-image: url('../../../images/icon-sedans.svg');
+    }
+
+    button {
+        color: c(orange);
+    }
+}

@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor | 3-Column Preview Card](https://www.frontendmentor.io/solutions/3column-card-mobilefirst-flexbox-bem-71-sass-architecture-x0FXJAFdN)
-- Live Site URL: [GitHub Pages | 3-Column Preview Card](https://itsjcsionelo.github.io/columncard/)
+- Live Site URL: [Netlify | 3-Column Preview Card](https://columncard.netlify.app)
 
 ### Built with
 

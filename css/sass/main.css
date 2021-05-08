@@ -80,6 +80,36 @@ button {
   }
 }
 
+.parent__luxury {
+  background-color: #004241;
+}
+.parent__luxury h2::before {
+  background-image: url(../../../images/icon-luxury.svg);
+}
+.parent__luxury button {
+  color: #004241;
+}
+
+.parent__sedans {
+  background-color: #e38826;
+}
+.parent__sedans h2::before {
+  background-image: url(../../../images/icon-sedans.svg);
+}
+.parent__sedans button {
+  color: #e38826;
+}
+
+.parent__suvs {
+  background-color: #006970;
+}
+.parent__suvs h2::before {
+  background-image: url(../../../images/icon-suvs.svg);
+}
+.parent__suvs button {
+  color: #006970;
+}
+
 .parent {
   display: flex;
   place-self: center;
@@ -148,34 +178,4 @@ button {
   text-align: center;
   position: relative;
   top: clamp(3vh, 2rem, 5vh);
-}
-
-.parent__luxury {
-  background-color: #004241;
-}
-.parent__luxury h2::before {
-  background-image: url("../../../images/icon-luxury.svg");
-}
-.parent__luxury button {
-  color: #004241;
-}
-
-.parent__sedans {
-  background-color: #e38826;
-}
-.parent__sedans h2::before {
-  background-image: url("../../../images/icon-sedans.svg");
-}
-.parent__sedans button {
-  color: #e38826;
-}
-
-.parent__suvs {
-  background-color: #006970;
-}
-.parent__suvs h2::before {
-  background-image: url("../../../images/icon-suvs.svg");
-}
-.parent__suvs button {
-  color: #006970;
 }

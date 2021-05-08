@@ -85,6 +85,7 @@ button {
 }
 .parent__luxury h2::before {
   background-image: url(../../../images/icon-luxury.svg);
+  background-color: red;
 }
 .parent__luxury button {
   color: #004241;

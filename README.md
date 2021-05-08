@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![./design/screenshot/desktop-sc.jpg](./design/screenshot/desktop-sc.jpg)
+![./design/screenshot/desktop-sc.png](./design/screenshot/desktop-sc.png)
 ![./design/screenshot/mobile-sc1.jpg](./design/screenshot/mobile-sc1.jpg) | ![./design/screenshot/mobile-sc2.jpg](./design/screenshot/mobile-sc2.jpg)
 
 ### Links

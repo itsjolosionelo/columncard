@@ -21,13 +21,13 @@ Users should be able to:
 
 ### Screenshot
 
-![./design/desktop-sc.jpg](./design/desktop-sc.jpg)
-![./design/mobile-sc1.jpg](./design/mobile-sc1.jpg) | ![./design/mobile-sc2.jpg](./design/mobile-sc2.jpg)
+![./design/screenshot/desktop-sc.jpg](./design/screenshot/desktop-sc.jpg)
+![./design/screenshot/mobile-sc1.jpg](./design/screenshot/mobile-sc1.jpg) | ![./design/screenshot/mobile-sc2.jpg](./design/screenshot/mobile-sc2.jpg)
 
 ### Links
 
-- Solution URL: [Frontend Mentor | 3-Column Preview Card](https://www.frontendmentor.io/solutions/stats-preview-card-mobilefirst-flexbox-bem-71-sass-architecture-Nf1mtghb2)
-- Live Site URL: [GitHub Pages | 3-Column Preview Card](https://itsjcsionelo.github.io/previewcard/)
+- Solution URL: [Frontend Mentor | 3-Column Preview Card](https://www.frontendmentor.io/solutions/3column-card-mobilefirst-flexbox-bem-71-sass-architecture-x0FXJAFdN)
+- Live Site URL: [GitHub Pages | 3-Column Preview Card](https://itsjcsionelo.github.io/columncard/)
 
 ### Built with
 
